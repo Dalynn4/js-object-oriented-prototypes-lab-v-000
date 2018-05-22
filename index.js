@@ -4,9 +4,7 @@
    this.training = training
 
    this
-   this.approve = function(){
-     return 'You can do that!'
-   }
+   this
    this.doCharity = function(){
      return "I like to help people."
    }
@@ -24,5 +22,9 @@ BoardMember.prototype.veto = function(){
      return 'No, I must disagree'
    }
    
-BoardMember.prototype
+BoardMember.prototype.approve = function(){
+     return 'You can do that!'
+   }
+  
+BoardMember.prototype 
 
