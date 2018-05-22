@@ -22,5 +22,5 @@
    }
  }
 
-BoardMember.p
+BoardMember.prototype
 
