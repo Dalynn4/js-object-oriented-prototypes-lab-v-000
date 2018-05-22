@@ -2,15 +2,9 @@
    this.name = name
    this.homeState = homeState
    this.training = training
+}
 
-   this
-   this
-   this
-
-   this
-
-   this
- }
+   
 
 BoardMember.prototype.veto = function(){
      return 'No, I must disagree'
