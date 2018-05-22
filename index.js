@@ -20,5 +20,7 @@
    }
  }
 
-BoardMember.prototype
+BoardMember.prototype.veto = function(){
+     return 'No, I must disagree'
+   }
 
