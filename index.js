@@ -3,9 +3,7 @@
    this.homeState = homeState
    this.training = training
 
-   this.veto = function(){
-     return 'No, I must disagree'
-   }
+   this
    this.approve = function(){
      return 'You can do that!'
    }
